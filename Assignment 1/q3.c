@@ -2,21 +2,28 @@
 
 int main (){
 
-/* 
+/* Wrong but creative 
 printf("'");
 printf("'");
 printf("MySirG");
-printf("'");
+printf("'"); 
 printf("");
  */
 
- /* char c='"';
+ /*First Method*/
+
+ char c='"';
  printf("%c",c);
  printf("MySirG");
  printf("%c",c);
- */
+
+ printf("\n");
  
-     printf("\"MySirG\"");
+ /*Second Method*/
+
+printf("\"MySirG\"");
     
-    return 0;
+return 0;
+
 }   
+
